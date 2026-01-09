@@ -43,19 +43,30 @@
 
 ## 🛠 Tech Stack
 
-### Languages
+### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,go,javascript" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,java,python,bash" />
 </p>
 
-### Backend & Databases
+> **Also familiar with:** SQL
+
+---
+
+### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,flask,postgres,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=mysql,redis" />
 </p>
 
-### Tools & Platforms
+---
+
+### Tools & Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,nginx,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,linux,vim,cmake" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/GDB-333333?style=for-the-badge&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Valgrind-6E4C13?style=for-the-badge" />
 </p>
 
 ---
