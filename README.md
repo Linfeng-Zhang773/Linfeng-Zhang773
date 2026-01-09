@@ -1,6 +1,8 @@
-<!-- Dynamic Hi There -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+Linfeng+Zhang;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there;I+am+Linfeng+Zhang;Welcome+to+my+GitHub!"
+    alt="Typing SVG"
+  />
 </h1>
 
 ---
