@@ -71,12 +71,11 @@
 </p>
 
 ---
-
 ## 🌐 Languages
 
-- **EN** — English (Proficient)  
-- **ZH** — Chinese (Mandarin, Native)  
-- **JA** — Japanese
+- <img src="https://flagcdn.com/us.svg" width="20"/> **English** — Proficient  
+- <img src="https://flagcdn.com/cn.svg" width="20"/> **Chinese (Mandarin)** — Native  
+- <img src="https://flagcdn.com/jp.svg" width="20"/> **Japanese** - JLPT N4 certified
 
 
 
