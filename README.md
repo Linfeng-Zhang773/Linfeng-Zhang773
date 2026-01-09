@@ -22,11 +22,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science background
-- 💡 Interested in **backend systems, databases, and distributed systems**
-- 🔭 Currently focusing on **building scalable and reliable software**
-- 🌱 Always learning and improving my CS fundamentals
-- ⚡ Fun fact: I enjoy turning complex systems into simple abstractions
+- 🎓 I am a Senior Undergraduate Student in Computer Engineering (CE), CSE Department, UC San Diego 
+- 💡 Interested in **Operating Systems, Networking, Distributed Systems, Databases, and Systems for Machine Learning**
+- 🔭 Currently focusing on **building a lightweight user-space TCP-like protocol**
+- 🌱 Always learning and improving my CS fundamental knowledges
 
 ---
 
