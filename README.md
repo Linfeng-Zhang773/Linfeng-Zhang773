@@ -38,6 +38,7 @@
 - **Operating Systems**
 - **Data Structures & Algorithms**
 - **System Design**
+- **Embedded Systems**
 
 ---
 
@@ -70,4 +71,11 @@
 </p>
 
 ---
+
+## 🌐 Languages
+
+- 🇺🇸 **English**: Proficient  
+- 🇨🇳 **Chinese (Mandarin)**: Native  
+- 🇯🇵 **Japanese**: JLPT N4 Certified
+
 
