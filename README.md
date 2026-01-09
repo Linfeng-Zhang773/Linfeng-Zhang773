@@ -29,32 +29,15 @@
 
 ---
 
-## 🧠 Computer Science Foundations
+## 🧠 What I learned
 
 - **Databases**
-  - Relational databases (MySQL, PostgreSQL)
-  - Indexing, transactions, isolation levels
-  - Query optimization & schema design
-
 - **Computer Networks**
-  - TCP/IP, HTTP/HTTPS
-  - Socket programming
-  - Network concurrency models
-
+- **Socket programming**
+- **Design patterns**
 - **Operating Systems**
-  - Processes & threads
-  - Memory management
-  - Synchronization & concurrency
-
 - **Data Structures & Algorithms**
-  - Common data structures
-  - Time & space complexity
-  - Problem-solving patterns
-
-- **System Design (Basic)**
-  - Scalability & availability
-  - Caching & load balancing
-  - Trade-offs in distributed systems
+- **System Design**
 
 ---
 
