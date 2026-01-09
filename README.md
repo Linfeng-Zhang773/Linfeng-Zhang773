@@ -10,17 +10,11 @@
 ## 📫 Reach Me
 
 <p align="center">
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:linfengzh01@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yourname/">
+  <a href="https://www.linkedin.com/in/linfeng-zhang-571125352/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourname">
-    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://your-website.com">
-    <img src="https://img.shields.io/badge/Website-24292F?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </p>
 
