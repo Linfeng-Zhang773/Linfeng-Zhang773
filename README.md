@@ -74,8 +74,9 @@
 
 ## 🌐 Languages
 
-- 🇺🇸 **English**: Proficient  
-- 🇨🇳 **Chinese (Mandarin)**: Native  
-- 🇯🇵 **Japanese**: JLPT N4 Certified
+- **EN** — English (Proficient)  
+- **ZH** — Chinese (Mandarin, Native)  
+- **JA** — Japanese
+
 
 
